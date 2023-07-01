@@ -1,6 +1,6 @@
 ### Olá, esse é meu portifólio 👋
 - 🌱 Estou aprendendo no momento, programação para web, redes e tópicos especias em desenvolvimento.
-- 🤔 Procuro ajuda com programação para jogos e aplicações.
+- 🤔 Procuro ajuda com programação em geral, principalmente para jogos.
 - 📫 Me contate por: email: capar.20191TIINF0168@aluno.ifpi.edu.br
 - 😄 Pronomes: Acho que qualquer um serve.
 - ⚡ Fato engraçado: Fiz minha conta para um trabalho avaliativo.
