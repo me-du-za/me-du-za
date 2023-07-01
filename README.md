@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, esse é meu portifólio 👋
 - 🌱 Estou aprendendo no momento, programação para web, redes e topicos especias em desenvolvimento.
 - 🤔 Procuro ajuda com programação para jogos e aplicações.
 - 📫 Me contate por: email: capar.20191TIINF0168@aluno.ifpi.edu.br
