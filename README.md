@@ -1,11 +1,13 @@
 ### Hi there 👋
-
+- 🌱 Estou aprendendo no momento, programação para web, redes e topicos especias em desenvolvimento.
+- 🤔 Procuro ajuda com programação para jogos e aplicações.
+- 📫 Me contate por: email: capar.20191TIINF0168@aluno.ifpi.edu.br
+- 😄 Pronomes: Acho que qualquer um serve.
+- ⚡ Fato engraçado: Fiz minha conta para um trabalho avaliativo.
 <!--
 **me-du-za/me-du-za** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
